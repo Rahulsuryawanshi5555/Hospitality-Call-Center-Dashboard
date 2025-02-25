@@ -26,8 +26,8 @@ This Power BI dashboard provides an insightful analysis of a hospitality call ce
 - **Geographic Call Sentiment:** 🌎 Mapping customer sentiment across locations
 
 ## 📷 Dashboard Screenshots
-![Dashboard 1](Dashboard_1.jpg)
-![Dashboard 2](Dashboard_2.jpg)
+![Dashboard 1]([Dashboard_1.jpg](https://github.com/Rahulsuryawanshi5555/Hospitality-Call-Center-Dashboard/blob/main/Dashboard_1.jpg))
+![Dashboard 2]([Dashboard_2.jpg](https://github.com/Rahulsuryawanshi5555/Hospitality-Call-Center-Dashboard/blob/main/Dashboard_2.jpg))
 
 ## 🚀 How to Use
 1. Open **Power BI Desktop** and load the dataset.
